@@ -8,4 +8,4 @@ Snapcommerce Online Assessment take-home project
 - Also works on [codingrooms online compiler](https://app.codingrooms.com/w/Lxya30rB9Clk)
 
 ## Error Handling
-If error message shows as `Access denied for user to database`, comment out first 3 lines
+If error message shows as `Access denied for user to database`, comment out the first 3 lines
